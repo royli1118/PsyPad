@@ -800,7 +800,8 @@
 				AAA638584B0C939C86A97CDEB1802D44 /* UIViewController+DLLoad.m */,
 				8D9986D564B43559CD7B44FCCD401C11 /* Support Files */,
 			);
-			path = Boilerplate;
+			name = Boilerplate;
+			path = ../PsyPad/Boilerplate;
 			sourceTree = "<group>";
 		};
 		6A7B66ED136DD42D5FD879460E49B6CE /* Support Files */ = {

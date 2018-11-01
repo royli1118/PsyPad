@@ -262,6 +262,44 @@
 		63F9F1B9168ED165006532D9 /* UIButtonBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIButtonBlock.m; sourceTree = "<group>"; };
 		86E04F8BAEFD99910003D77B /* Pods.ad-hoc.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods.ad-hoc.xcconfig"; path = "Pods/Target Support Files/Pods/Pods.ad-hoc.xcconfig"; sourceTree = "<group>"; };
 		99CD8960560570CB19EBCDD9 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		B096B65A218B2982004EE108 /* DLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLAppDelegate.h; path = Classes/DLAppDelegate.h; sourceTree = "<group>"; };
+		B096B65B218B2982004EE108 /* DLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLAppDelegate.m; path = Classes/DLAppDelegate.m; sourceTree = "<group>"; };
+		B096B65C218B2982004EE108 /* DLCenteringScrollViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLCenteringScrollViewController.h; path = Classes/DLCenteringScrollViewController.h; sourceTree = "<group>"; };
+		B096B65D218B2982004EE108 /* DLCenteringScrollViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLCenteringScrollViewController.m; path = Classes/DLCenteringScrollViewController.m; sourceTree = "<group>"; };
+		B096B65E218B2982004EE108 /* DLDatabaseManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLDatabaseManager.h; path = Classes/Database/DLDatabaseManager.h; sourceTree = "<group>"; };
+		B096B65F218B2982004EE108 /* DLDatabaseManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLDatabaseManager.m; path = Classes/Database/DLDatabaseManager.m; sourceTree = "<group>"; };
+		B096B660218B2982004EE108 /* DLIterativeMigrator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLIterativeMigrator.h; path = Classes/Database/DLIterativeMigrator.h; sourceTree = "<group>"; };
+		B096B661218B2982004EE108 /* DLIterativeMigrator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLIterativeMigrator.m; path = Classes/Database/DLIterativeMigrator.m; sourceTree = "<group>"; };
+		B096B662218B2982004EE108 /* DLKeyboardObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLKeyboardObserver.h; path = Classes/DLKeyboardObserver.h; sourceTree = "<group>"; };
+		B096B663218B2982004EE108 /* DLKeyboardObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLKeyboardObserver.m; path = Classes/DLKeyboardObserver.m; sourceTree = "<group>"; };
+		B096B664218B2982004EE108 /* DLLandscapeNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLLandscapeNavigationController.h; path = Classes/DLLandscapeNavigationController.h; sourceTree = "<group>"; };
+		B096B665218B2982004EE108 /* DLLandscapeNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLLandscapeNavigationController.m; path = Classes/DLLandscapeNavigationController.m; sourceTree = "<group>"; };
+		B096B666218B2982004EE108 /* DLLandscapeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLLandscapeViewController.h; path = Classes/DLLandscapeViewController.h; sourceTree = "<group>"; };
+		B096B667218B2982004EE108 /* DLLandscapeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLLandscapeViewController.m; path = Classes/DLLandscapeViewController.m; sourceTree = "<group>"; };
+		B096B668218B2982004EE108 /* DLLaunchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLLaunchViewController.h; path = Classes/DLLaunchViewController.h; sourceTree = "<group>"; };
+		B096B669218B2982004EE108 /* DLLaunchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLLaunchViewController.m; path = Classes/DLLaunchViewController.m; sourceTree = "<group>"; };
+		B096B66A218B2982004EE108 /* DLLocalization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLLocalization.h; path = Classes/DLLocalization.h; sourceTree = "<group>"; };
+		B096B66B218B2982004EE108 /* DLPortraitNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLPortraitNavigationController.h; path = Classes/DLPortraitNavigationController.h; sourceTree = "<group>"; };
+		B096B66C218B2982004EE108 /* DLPortraitNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLPortraitNavigationController.m; path = Classes/DLPortraitNavigationController.m; sourceTree = "<group>"; };
+		B096B66D218B2982004EE108 /* DLPortraitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLPortraitViewController.h; path = Classes/DLPortraitViewController.h; sourceTree = "<group>"; };
+		B096B66E218B2982004EE108 /* DLPortraitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLPortraitViewController.m; path = Classes/DLPortraitViewController.m; sourceTree = "<group>"; };
+		B096B66F218B2982004EE108 /* DLScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLScrollView.h; path = Classes/DLScrollView.h; sourceTree = "<group>"; };
+		B096B670218B2982004EE108 /* DLScrollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLScrollView.m; path = Classes/DLScrollView.m; sourceTree = "<group>"; };
+		B096B671218B2982004EE108 /* DLServerManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLServerManager.h; path = Classes/Server/DLServerManager.h; sourceTree = "<group>"; };
+		B096B672218B2982004EE108 /* DLServerManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLServerManager.m; path = Classes/Server/DLServerManager.m; sourceTree = "<group>"; };
+		B096B673218B2982004EE108 /* DLSettings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLSettings.h; path = Classes/DLSettings.h; sourceTree = "<group>"; };
+		B096B674218B2982004EE108 /* DLSettings.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLSettings.m; path = Classes/DLSettings.m; sourceTree = "<group>"; };
+		B096B675218B2982004EE108 /* DLTextFieldCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLTextFieldCollection.h; path = Classes/DLTextFieldCollection.h; sourceTree = "<group>"; };
+		B096B676218B2982004EE108 /* DLTextFieldCollection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLTextFieldCollection.m; path = Classes/DLTextFieldCollection.m; sourceTree = "<group>"; };
+		B096B677218B2982004EE108 /* DLTextFieldToolbar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLTextFieldToolbar.h; path = Classes/DLTextFieldToolbar.h; sourceTree = "<group>"; };
+		B096B678218B2982004EE108 /* DLTextFieldToolbar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = DLTextFieldToolbar.m; path = Classes/DLTextFieldToolbar.m; sourceTree = "<group>"; };
+		B096B679218B2982004EE108 /* DLUserAccount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DLUserAccount.h; path = Classes/Server/DLUserAccount.h; sourceTree = "<group>"; };
+		B096B67A218B2982004EE108 /* NSString+Email.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NSString+Email.h"; path = "Classes/NSString+Email.h"; sourceTree = "<group>"; };
+		B096B67B218B2982004EE108 /* NSString+Email.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSString+Email.m"; path = "Classes/NSString+Email.m"; sourceTree = "<group>"; };
+		B096B67C218B2982004EE108 /* UIStoryboard+DLMain.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIStoryboard+DLMain.h"; path = "Classes/UIStoryboard+DLMain.h"; sourceTree = "<group>"; };
+		B096B67D218B2982004EE108 /* UIStoryboard+DLMain.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIStoryboard+DLMain.m"; path = "Classes/UIStoryboard+DLMain.m"; sourceTree = "<group>"; };
+		B096B67E218B2982004EE108 /* UIViewController+DLLoad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIViewController+DLLoad.h"; path = "Classes/UIViewController+DLLoad.h"; sourceTree = "<group>"; };
+		B096B67F218B2982004EE108 /* UIViewController+DLLoad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+DLLoad.m"; path = "Classes/UIViewController+DLLoad.m"; sourceTree = "<group>"; };
 		B0F58EE1312D21FB46592656 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -556,6 +594,7 @@
 			children = (
 				635D07A8168D7D0D002B845F /* AppDelegate.h */,
 				635D07A9168D7D0D002B845F /* AppDelegate.m */,
+				B096B684218B2982004EE108 /* Boilerplate */,
 				5AF0EACAB2428B9771E20D2A /* Database */,
 				5AF0E9EE0391685FE8B56CF2 /* Helper Classes */,
 				5AF0EA8C7A3DEBCBB378BF99 /* Configuration */,
@@ -632,6 +671,51 @@
 				63BF7A7E1ABEB2D300825F70 /* User.m */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		B096B684218B2982004EE108 /* Boilerplate */ = {
+			isa = PBXGroup;
+			children = (
+				B096B65A218B2982004EE108 /* DLAppDelegate.h */,
+				B096B65B218B2982004EE108 /* DLAppDelegate.m */,
+				B096B65C218B2982004EE108 /* DLCenteringScrollViewController.h */,
+				B096B65D218B2982004EE108 /* DLCenteringScrollViewController.m */,
+				B096B65E218B2982004EE108 /* DLDatabaseManager.h */,
+				B096B65F218B2982004EE108 /* DLDatabaseManager.m */,
+				B096B660218B2982004EE108 /* DLIterativeMigrator.h */,
+				B096B661218B2982004EE108 /* DLIterativeMigrator.m */,
+				B096B662218B2982004EE108 /* DLKeyboardObserver.h */,
+				B096B663218B2982004EE108 /* DLKeyboardObserver.m */,
+				B096B664218B2982004EE108 /* DLLandscapeNavigationController.h */,
+				B096B665218B2982004EE108 /* DLLandscapeNavigationController.m */,
+				B096B666218B2982004EE108 /* DLLandscapeViewController.h */,
+				B096B667218B2982004EE108 /* DLLandscapeViewController.m */,
+				B096B668218B2982004EE108 /* DLLaunchViewController.h */,
+				B096B669218B2982004EE108 /* DLLaunchViewController.m */,
+				B096B66A218B2982004EE108 /* DLLocalization.h */,
+				B096B66B218B2982004EE108 /* DLPortraitNavigationController.h */,
+				B096B66C218B2982004EE108 /* DLPortraitNavigationController.m */,
+				B096B66D218B2982004EE108 /* DLPortraitViewController.h */,
+				B096B66E218B2982004EE108 /* DLPortraitViewController.m */,
+				B096B66F218B2982004EE108 /* DLScrollView.h */,
+				B096B670218B2982004EE108 /* DLScrollView.m */,
+				B096B671218B2982004EE108 /* DLServerManager.h */,
+				B096B672218B2982004EE108 /* DLServerManager.m */,
+				B096B673218B2982004EE108 /* DLSettings.h */,
+				B096B674218B2982004EE108 /* DLSettings.m */,
+				B096B675218B2982004EE108 /* DLTextFieldCollection.h */,
+				B096B676218B2982004EE108 /* DLTextFieldCollection.m */,
+				B096B677218B2982004EE108 /* DLTextFieldToolbar.h */,
+				B096B678218B2982004EE108 /* DLTextFieldToolbar.m */,
+				B096B679218B2982004EE108 /* DLUserAccount.h */,
+				B096B67A218B2982004EE108 /* NSString+Email.h */,
+				B096B67B218B2982004EE108 /* NSString+Email.m */,
+				B096B67C218B2982004EE108 /* UIStoryboard+DLMain.h */,
+				B096B67D218B2982004EE108 /* UIStoryboard+DLMain.m */,
+				B096B67E218B2982004EE108 /* UIViewController+DLLoad.h */,
+				B096B67F218B2982004EE108 /* UIViewController+DLLoad.m */,
+			);
+			path = Boilerplate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
