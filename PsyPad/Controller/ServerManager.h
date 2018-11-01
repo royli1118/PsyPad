@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 David Lawson. All rights reserved.
 //
 
-#import <Boilerplate/DLServerManager.h>
+#import <DLServerManager.h>
 
 @class User, TestConfiguration;
 

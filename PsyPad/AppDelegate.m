@@ -10,8 +10,7 @@
 #import "DatabaseManager.h"
 #import "LoginViewController.h"
 #import "UIViewController+DLLoad.h"
-#import <Boilerplate/DLSettings.h>
-#import <MagicalRecord/MagicalRecord.h>
+#import "DLSettings.h"
 
 @implementation AppDelegate
 
